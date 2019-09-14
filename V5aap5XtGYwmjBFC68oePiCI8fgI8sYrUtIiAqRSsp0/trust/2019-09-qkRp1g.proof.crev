@@ -1,0 +1,17 @@
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-09-14T21:03:46.538758181+03:00"
+from:
+  id-type: crev
+  id: V5aap5XtGYwmjBFC68oePiCI8fgI8sYrUtIiAqRSsp0
+  url: "https://github.com/zoxal/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: Trusting dpc teamp
+-----BEGIN CREV TRUST SIGNATURE-----
+ek2l7rXSPXZNFw06rdRcbnczq8fkHe4pcP2AiTeOVakT2XQ4lbE_ZpRrdoC5133tfBUFH424bFaGdfv87JL9Dw
+-----END CREV TRUST-----
+
